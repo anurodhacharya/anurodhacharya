@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anurodh Acharya</h1>
-<h3 align="center">A passionate cybersecurity engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/acharya_anurodh" target="blank"><img src="https://img.shields.io/twitter/follow/acharya_anurodh?logo=twitter&style=for-the-badge" alt="acharya_anurodh" /></a> </p>
 
 - 🌱 I’m currently learning **DevSecOps, SAST, DAST, AWS, Kubernetes**
 
-- 📫 How to reach me **anurodh.acharya10@gmail.com, anurodh@u.washington.edu**
+- 📫 How to reach me **anurodh.acharya10@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -14,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/acharya_anurodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acharya_anurodh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurodhacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurodhacharya" height="30" width="40" /></a>
 <a href="https://medium.com/@anurodh-acharya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anurodh-acharya10" height="30" width="40" /></a>
 </p>
 
